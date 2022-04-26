@@ -1,4 +1,4 @@
-package otsuri;
+package q21_otsuri;
 
 import java.util.ArrayList;
 import java.util.Arrays;
