@@ -1,4 +1,4 @@
-package otsuri;
+package q21_otsuri;
 
 final class People {
 
